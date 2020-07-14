@@ -25,5 +25,5 @@ yarn example cra dev
 4. Deploy front end
 
 ```sh
-yarn example cra amplify publish`
+yarn example cra amplify publish
 ```
